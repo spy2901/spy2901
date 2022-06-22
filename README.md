@@ -1,3 +1,5 @@
+[![MasterHead]()](https://github.com/spy2901)
+
 ### Hello im Spy2901
 
 <!--
@@ -16,14 +18,3 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spy2901&show_icons=true&theme=dark)
 
-- uses: Platane/snk@v2
-  with:
-   
-    github_user_name: ${{ spy2901 }}
-
-    # list of files to generate.
-   
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
