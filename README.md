@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm a passionate developer specializing in **WebDev and Python**. Currently, I'm building **TriathlonForge**, a triathlon tracking app integrating with **STRAVA** and **Garmin**.  
 
 ## 🔧 Tech Stack
-- 🚀 **Languages & Frameworks**: Flutter, Dart, Python, Firebase  
-- 📡 **APIs & Integrations**: STRAVA API, Garmin API, REST APIs  
+- 🚀 **Languages & Frameworks**: Python, PHP, C#, MySQL  
+- 📡 **APIs & Integrations**: STRAVA API, REST APIs  
 
 ## 🏗️ My Projects
 ### [TriathlonForge]([https://github.com/yourusername/TriathlonForge](https://github.com/spy2901/TriathlonForge/))  
