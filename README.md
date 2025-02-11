@@ -32,7 +32,7 @@ Short description of another project you’re working on.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spy2901&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me
-🔗 **[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nemanja-bozovic-24ab23296/))**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/nemanja-bozovic-24ab23296/)**  
 📧 **[Email](mailto:nemanja.bozovic2007@email.com)**  
 
 ---
