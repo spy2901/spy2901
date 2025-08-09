@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Nemanja  
 
 ## 🚀 About Me
-I'm a passionate developer specializing in **WebDev and Python**. Currently, I'm building **TriathlonForge**, a triathlon tracking app integrating with **STRAVA** and **Garmin**.  
+I'm a passionate developer specializing in **WebDev and Python**. Currently, I'm building **TriathlonForge**, a triathlon tracking app integrating with **STRAVA** and <!-- **Garmin**. --> 
 
 ## 🔧 Tech Stack
 - 🚀 **Languages & Frameworks**: Python, PHP, C#, MySQL  
