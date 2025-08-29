@@ -33,7 +33,7 @@ Short description of another project you’re working on.
 
 ## 📫 Connect with Me
 🔗 **[LinkedIn](https://www.linkedin.com/in/nemanja-bozovic-24ab23296/)**  
-📧 **[Email](mailto:nemanja.bozovic2007@email.com)**  
+📧 **[Email](mailto:nemanja.bozovic007@email.com)**  
 
 ---
 
