@@ -23,7 +23,7 @@ I'm a passionate developer specializing in **WebDev and Python**. Currently, I'm
 
 ## 🏗️ My Projects
 ### [TriathlonForge]([https://github.com/yourusername/TriathlonForge](https://github.com/spy2901/TriathlonForge/))  
-A triathlon tracking app that syncs with **STRAVA** & **Garmin** to help athletes analyze their performance. 🚴🏊‍♂️🏃  
+A triathlon tracking app that syncs with **STRAVA** to help athletes analyze their performance. 🚴🏊‍♂️🏃  
 
 <!--### [Other Project Name](https://github.com/yourusername/your-project)  
 Short description of another project you’re working on.  
