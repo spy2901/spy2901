@@ -17,9 +17,6 @@ A triathlon tracking app that syncs with **Strava** to help athletes analyze the
 ### 🎮 Multiplayer 3D Game (Godot 4, FastAPI, MySQL)
 Server-authoritative combat, loot, and movement, with accounts, player persistence, and an automated test suite. Self-hosted on a Raspberry Pi.
 
-### 🧱 Voxel Engine (C#, Raylib-cs)
-Minecraft-style engine with chunked meshing, AABB physics, and DDA raycasting.
-
 ### 🤖 JARVIS-style Voice Assistant (Python)
 Wake word → faster-whisper → Mistral tool-calling → ElevenLabs.
 
