@@ -21,7 +21,7 @@ Server-authoritative combat, loot, and movement, with accounts, player persisten
 Wake word → faster-whisper → Mistral tool-calling → ElevenLabs.
 
 ## 📊 GitHub Stats
-(![GitHub Stats Card](https://ghstats.dev/api/card?username=spy2901))
+![GitHub Stats Card](https://ghstats.dev/api/card?username=spy2901)
 
 ## 📫 Connect with Me
 🔗 **[LinkedIn](https://www.linkedin.com/in/nemanja-bozovic-24ab23296/)**
